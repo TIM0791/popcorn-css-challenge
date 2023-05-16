@@ -30,4 +30,11 @@ button {
 section {
   border-style: outset;
   background-color: white;
+  width: 250px;
+}
+
+article {
+  border-style: outset;
+  background-color: white;
+  width: 78%;
 }
