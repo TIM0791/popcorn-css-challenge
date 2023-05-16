@@ -4,6 +4,10 @@ button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
 
+body {
+  background-color: #D4A76A;
+}
+
 header {
   background-color: #FFDBAA;
   color: #553100;
@@ -11,4 +15,19 @@ header {
 
 button {
   background-color: #805215;
+  color: white;
+}
+
+.top {
+  margin-left: 5px;
+  margin-bottom: auto;
+}
+
+#inner {
+  margin-left: 80%;
+}
+
+section {
+  border-style: outset;
+  background-color: white;
 }
